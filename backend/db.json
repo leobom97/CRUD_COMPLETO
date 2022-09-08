@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Esferográfica Azul",
+      "price": "5.40"
+    },
+    {
+      "id": 6,
+      "name": "Caneta Esferográfica Vermelha",
+      "price": "2.50"
+    },
+    {
+      "id": 7,
+      "name": "Caneta Esferográfica Vermelha",
+      "price": "2.50"
+    },
+    {
+      "id": 8,
+      "name": "Lapiseira",
+      "price": "1500.00"
+    },
+    {
+      "id": 9,
+      "name": "Vaso Persa",
+      "price": "250.0"
+    },
+    {
+      "id": 11,
+      "name": "Boneco Max Steel",
+      "price": "25.0"
+    }
+  ]
+}
